@@ -2,6 +2,14 @@
 
 An awesome collection of sources regarding Informed Machine Learning (IML)/Background Knowledge Integration (BKI).
 
+## Overview, Taxonomy and Surveys
+
+| Year | Title                                                                                                  | Paper                                                                  | Code |
+| ---- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---- |
+| 2022 | A review of some techniques for inclusion of domain-knowledge into deep neural networks                | [Link](https://www.nature.com/articles/s41598-021-04590-0)             |      |
+| 2021 | Informed Machine Learning - A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems | [Link](https://ieeexplore.ieee.org/document/9429985/)                  |      |
+| 2020 | Integrating Machine Learning with Human Knowledge                                                      | [Link](https://linkinghub.elsevier.com/retrieve/pii/S2589004220308488) |      |
+
 ## BKI to Graph Neural Networks (GNNs)
 
 | Year | Title                                                                                                                        | Paper                                                                                   | Code                                               |
