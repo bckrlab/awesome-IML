@@ -12,14 +12,14 @@ An awesome collection of sources regarding Informed Machine Learning (IML)/Backg
 
 ## Tasks
 
-TBA
+Papers are categorized based on the task, more details are included in the table.
 
 ### Classification
 
 | Title                                                                                                | Year | Knowledge Representation | Model                                             | Task (specific)                         | Paper                                                                                   | Code                                                                  |
 | ---------------------------------------------------------------------------------------------------- | ---- | ------------------------ | ------------------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| expi-MAP: Biologically informed deep learning to query gene programs in single-cell atlases          | 2023 | binary matrix            | Conditional variational autoencoders              | single cell reference mapping           | [Link](https://www.nature.com/articles/s41556-022-01072-x)                              | [Link](https://github.com/theislab/expiMap_reproducibility)           |
 | A multimodal graph neural network framework for cancer molecular subtype classification              | 2024 | graph                    | GNN                                               | cancer subtype classification           | [Link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05622-4) |                                                                       |
+| Biologically informed deep learning to query gene programs in single-cell atlases                    | 2023 | binary matrix            | Conditional variational autoencoders              | single cell reference mapping           | [Link](https://www.nature.com/articles/s41556-022-01072-x)                              | [Link](https://github.com/theislab/expiMap_reproducibility)           |
 | Cancer molecular subtype classification by graph convolutional networks on multi-omics data          | 2021 | graph                    | GNN                                               | cancer subtype classification           | [Link](https://dl.acm.org/doi/10.1145/3459930.3469542)                                  |                                                                       |
 | PKGCN: prior knowledge enhanced graph convolutional network for graph-based semi-supervised learning | 2019 | graph                    | GNN                                               | node classification                     | [Link](http://link.springer.com/10.1007/s13042-019-01003-7)                             |                                                                       |
 | Single-cell classification using graph convolutional networks                                        | 2021 | graph                    | GNN                                               | cell classification                     | [Link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04278-2) | [Link](https://github.com/NabaviLab/sigGCN)                           |
